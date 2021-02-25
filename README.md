@@ -1,2 +1,3 @@
-# Circuitos_Digitais_UFRGS
-Circuitos logicos do quartus feitos durante a cadeira
+# [UFRGS] Circuitos Digitais 
+Circuitos lógicos que fiz durante a cadeira usando o quartus.
+Pode ajudar alguem necessitado...
